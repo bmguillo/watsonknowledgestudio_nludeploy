@@ -90,7 +90,7 @@ Human annotators submit annotated documents for review
 - Test set: A set of annotated documents that is used to test the trained model. After you run a test on the test set, perform a detailed diagnostic-purposed error analysis of the results. Close analysis helps you find weaknesses in the current model that can be addressed.
 - Blind set: A set of annotated documents that is set aside and used to test the system periodically after several iterations of testing and improvement have occurred. To prevent accuracy from being tainted (for example, by making changes based only on annotations in known documents), blind data should be data that has not previously been viewed by users involved with creating the model.
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/42_trainingtestblindtophalfresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/42__trainingtestblindtophalfresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/44_trainingtestblindbottomhalfresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/46_MLmodelevaluationcomplete.png)
 
