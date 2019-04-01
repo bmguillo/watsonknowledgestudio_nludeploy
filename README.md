@@ -22,7 +22,21 @@ Customers may have a need to modify the type system that they have created after
 ## Create Workspace
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/1.png)
-![test](https://github.com/bmguillo/assistant-cloudant-webstarter/blob/master/public/img/flow.png)
-
 
 ## Creation of a Type System for Domain Adaptation (Entity Types & Relation Types)
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/4.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/2_entitytypes.png)
+
+## Creation of a Dictionary for Domain Adaptation (specific entity type or rule class)
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/7_dictionarysizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/8_dictionarysizing.png)
+
+## Creation of Representative Document Sets for Building a Training Corpus
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/10_documentsetsizing.png)
+
+
+
+
