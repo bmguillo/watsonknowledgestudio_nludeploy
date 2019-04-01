@@ -21,6 +21,6 @@ Customers may have a need to modify the type system that they have created after
 
 ## Create Workspace
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/img/1.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/tree/master/img/1.png)
 
 ## Creation of a Type System for Domain Adaptation (Entity Types & Relation Types)
