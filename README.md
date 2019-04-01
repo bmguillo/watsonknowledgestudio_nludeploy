@@ -66,10 +66,8 @@ Human annotators submit annotated documents for review
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/17_annotationtaskresized.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/18_annotationtaskcreationsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/20_addannotationsettotaskresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/maste/img/28_humanannotationinprogressresizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/28_humanannotationinprogressresizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/29_fiatannotationresizing.png)
-
-
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/30_inprogresssizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/31_completeannotationtaskresisze.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/32_completedannotationtasksresize.png)
@@ -82,7 +80,7 @@ Create Ground Truth
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/40_inconflictresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/38_conflictcheckingresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/39_accepthumanannotationresizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/39_accepthumanannotatorsetsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/37_acceptannotationsetmsgresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/41_completedsetsresize.png)
 
