@@ -100,3 +100,7 @@ Snapshot for Production Deployment & Continuous Improvement
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/48_deployversionresize.png)
 
+## Deploy to NLU after provisioning of NLU instance
+
+- Identify & analyze semantic features of text input, including custom entities and relations unique to your domain
+- [Working with deployed models](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-customizing#customizing) 
