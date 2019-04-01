@@ -98,4 +98,5 @@ Snapshot for Production Deployment & Continuous Improvement
 
 - If there is only one working version of the model, create a snapshot of the current model. This versions the model, which enables you to deploy one version, while you continue to improve the current version. The option to deploy does not appear until you create at least one version.
 
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/48_deployversionresize.png)
 
