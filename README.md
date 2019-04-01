@@ -53,6 +53,8 @@ Machine Learning Model:
 - NLU API for annotation with predefined set of entity types
 - Dictionary annotator(associate a dictionary with an entity type from the type system, creates an annotation for each mention in the text that matches a dictionary term)
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/10_documentsetsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/22_ruleeditorsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/23_dictionarysizing.png)
+
 
 
