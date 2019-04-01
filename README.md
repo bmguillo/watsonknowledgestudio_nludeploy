@@ -21,3 +21,4 @@ Customers may have a need to modify the type system that they have created after
 
 ## Create Workspace
 
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/img/1.png)
