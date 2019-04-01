@@ -36,7 +36,23 @@ Customers may have a need to modify the type system that they have created after
 ## Creation of Representative Document Sets for Building a Training Corpus
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/10_documentsetsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/11_addadocumentsetsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/12_documentsetsfilledinresized.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/14_createannotationsetsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/15_annotationsetsizing.png)
 
 
+## Perform Pre-annotation for bootstrapping Human Annotation
+
+Rule Based Model(Run independently or train against ML model):
+- Rule Editor: dictionary associated with rule class & regex for pattern matching
+- Map entity types from type system to one or more rule classes(Versions)
+- Rules based annotator creation & save for [deployment to WDS or NLU](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_rule_publish#wks_rule_publish)
+
+Machine Learning Model:
+- NLU API for annotation with predefined set of entity types
+- Dictionary annotator(associate a dictionary with an entity type from the type system, creates an annotation for each mention in the text that matches a dictionary term)
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/10_documentsetsizing.png)
 
 
