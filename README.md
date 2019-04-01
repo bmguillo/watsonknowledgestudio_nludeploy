@@ -98,9 +98,28 @@ Snapshot for Production Deployment & Continuous Improvement
 
 - If there is only one working version of the model, create a snapshot of the current model. This versions the model, which enables you to deploy one version, while you continue to improve the current version. The option to deploy does not appear until you create at least one version.
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/48_deployversionresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/48_deployversionsresize.png)
 
 ## Deploy to NLU after provisioning of NLU instance
 
 - Identify & analyze semantic features of text input, including custom entities and relations unique to your domain
 - [Working with deployed models](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-customizing#customizing) 
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/50_nluprovisionresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/40b_deploymodelnluresizeboxresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/41_deploymodelresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/49_deploymsgresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/45_finalshotdeployedresize.png)
+
+Summary
+In this tutorial guide, we:
+•	Defined a problem statement.
+•	Imported a document set and created a type Systems in WKS.
+•	Annotated the document set.
+•	Created, trained, and evaluated custom machine learning model.
+•	Took Snapshot of annotation component artifacts
+•	Deployed the WKS model to NLU.
+
+This concludes the tutorial guide. I hope you found it useful.
+
+
