@@ -74,7 +74,7 @@ Human annotators submit annotated documents for review
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/33_acceptannotationsetsresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/34_completedannotationtaskresize.png)
 
-Create Ground Truth
+## Create Ground Truth
 
 - For the purpose of this tutorial we will assume annotation quality control has been performed
 
@@ -84,7 +84,7 @@ Create Ground Truth
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/37_acceptannotationsetmsgresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/41_completedsetsresize.png)
 
-Train & Evaluate
+## Train & Evaluate
 
 - Training set: A set of documents that have been annotated through pre-annotation or by human annotators that is used to train the model. The goal of the training set is to teach the machine learning model about correct annotations, which includes teaching the model through text that was not annotated.
 - Test set: A set of annotated documents that is used to test the trained model. After you run a test on the test set, perform a detailed diagnostic-purposed error analysis of the results. Close analysis helps you find weaknesses in the current model that can be addressed.
@@ -94,7 +94,7 @@ Train & Evaluate
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/44_trainingtestblindbottomhalfresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/46_MLmodelevaluationcomplete.png)
 
-Snapshot for Production Deployment & Continuous Improvement
+## Snapshot for Production Deployment & Continuous Improvement
 
 - If there is only one working version of the model, create a snapshot of the current model. This versions the model, which enables you to deploy one version, while you continue to improve the current version. The option to deploy does not appear until you create at least one version.
 
@@ -113,12 +113,12 @@ Snapshot for Production Deployment & Continuous Improvement
 
 Summary
 In this tutorial guide, we:
-•	Defined a problem statement.
-•	Imported a document set and created a type Systems in WKS.
-•	Annotated the document set.
-•	Created, trained, and evaluated custom machine learning model.
-•	Took Snapshot of annotation component artifacts
-•	Deployed the WKS model to NLU.
+- Defined a problem statement.
+- Imported a document set and created a type Systems in WKS.
+- Annotated the document set.
+- Created, trained, and evaluated custom machine learning model.
+- Took Snapshot of annotation component artifacts
+- Deployed the WKS model to NLU.
 
 This concludes the tutorial guide. I hope you found it useful.
 
