@@ -38,7 +38,7 @@ Customers may have a build a domain specific machine learning model for their in
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/10_documentsetsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/11_addadocumentsetsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/12_documentsetsfilledinresized.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/14_createannotationsetsizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/14_createannotationsetssizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/15_annotationsetsizing.png)
 
 
