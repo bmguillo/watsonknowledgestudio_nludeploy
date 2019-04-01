@@ -63,9 +63,18 @@ Human annotators submit annotated documents for review
 - Coreferences are mentions that mean the same thing, thus helping to ensure consistency when words are not identical. Examples of coreferenced mentions include the name of a U.S. state and its abbreviation, the name of a company and its acronym, or a person's name and a pronoun that refers back to that person
 - Relations: A relation identifies a binary, ordered relationship between two entities. For example, in documents about automobiles, the machine learning annotator might use the relation “occupantOf” to identify people who are occupants of a vehicle. For another example, the relation “employedBy” might identify people and the company they work for.
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/17_annotationtask resized.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/17_annotation task resized.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/18_annotationtaskcreationsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/20_addannotationsettotaskresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/28_humanannotationprogressresizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/29_fiatannotationresizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/30_inprogresssizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/31_completeannotationtaskresisze.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/32_completedannotationtaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/33_acceptannotationsetsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/34_completeannotationtaskresize.png)
+
+
+
 
 
