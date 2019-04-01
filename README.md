@@ -106,7 +106,7 @@ Snapshot for Production Deployment & Continuous Improvement
 - [Working with deployed models](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-customizing#customizing) 
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/50_nluprovisionresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/40b_deploymodelnluresizeboxresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/40b_deploymodelnluresizebox.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/41_deploymodelresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/49_deploymsgresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/45_finalshotdeployedresize.png)
