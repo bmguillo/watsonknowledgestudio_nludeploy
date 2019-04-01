@@ -70,9 +70,9 @@ Human annotators submit annotated documents for review
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/29_fiatannotationresizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/30_inprogresssizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/31_completeannotationtaskresisze.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/32_completedannotationtaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/32_completedannotationtasksresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/33_acceptannotationsetsresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/34_completeannotationtaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/34_completeannotationsetresize.png)
 
 
 
