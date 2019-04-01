@@ -17,7 +17,7 @@ It is recommended to annotate a variety of a large set of documents for greater 
 
 ## Challenge
 
-Customers may have a need to modify the type system that they have created after they have deployed their model to NLU as a continuous training/testing practice for greater optimization and accuracy of the model.
+Customers may have a build a domain specific machine learning model for their industry.
 
 ## Create Workspace
 
