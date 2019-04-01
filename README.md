@@ -7,6 +7,6 @@ The objective of this tutorial is to train an ML annotator model using domain ad
 
 Prerequisites
 
-•	IBM Cloud account: If you do not have an IBM Cloud account, you can create an account [here](https://cloud.ibm.com/)
-•	Provision a Watson Knowledge Studio instance within IBM Cloud & creation of a workspace.
-•	Basic knowledge of Watson Knowledge Studio process workflow & creation of roles by viewing docs.
+- IBM Cloud account: If you do not have an IBM Cloud account, you can create an account [here](https://cloud.ibm.com/)
+- Provision a Watson Knowledge Studio [instance] (https://cloud.ibm.com/catalog/services/knowledge-studio?hideTours=true&?cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Discovery-_-Watson_Developer_Website) within IBM Cloud & creation of a workspace.
+- Basic knowledge of Watson Knowledge Studio process workflow & creation of roles by viewing docs.
