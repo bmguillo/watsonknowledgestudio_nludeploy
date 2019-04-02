@@ -21,6 +21,8 @@ Customers may have a build a domain specific machine learning model for their in
 
 ## Create Workspace
 
+The default tokenizer is more advanced than the dictionary-based tokenizer; it uses machine learning to identify the tokens in the source documents based on the statistical learning it has done in the language of the source documents. It identifies tokens with more precision because it understands the more natural and nuanced patterns of language. The dictionary-based tokenizer identifies tokens based on language rules
+
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/1.png)
 
 ## Creation of a Type System for Domain Adaptation (Entity Types & Relation Types)
