@@ -49,6 +49,10 @@ Rule Based Model(Run independently or train against ML model):
 - Map entity types from type system to one or more rule classes(Versions)
 - Rules based annotator creation & save for [deployment to WDS or NLU](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_rule_publish#wks_rule_publish)
 
+Rule-based model: Uses a declarative approach to finding entities in documents. This type of model is more predictable, and is easier to comprehend and maintain. However, it does not learn from new data. It can only find patterns it has been taught to look for.
+
+Machine learning model: Uses statistical approach to finding entities and relationships in documents. This type of model can adapt as the amount of data grows.
+
 Machine Learning Model:
 - NLU API for annotation with predefined set of entity types
 - Dictionary annotator(associate a dictionary with an entity type from the type system, creates an annotation for each mention in the text that matches a dictionary term)
