@@ -28,7 +28,7 @@ The default tokenizer is more advanced than the dictionary-based tokenizer; it u
 ## Creation of a Type System for Domain Adaptation (Entity Types & Relation Types)
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/4.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/1_addentitytypesizing.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/1_beforeentityresized.png)
 
 ## Creation of a Dictionary for Domain Adaptation (specific entity type or rule class)
 
