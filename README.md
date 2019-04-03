@@ -119,8 +119,10 @@ Human annotators submit annotated documents for review
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/49_deploymsgresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/45_finalshotdeployedresize.png)
 
-Summary
+## Summary
+
 In this tutorial guide, we:
+
 - Defined a problem statement.
 - Imported a document set and created a type Systems in WKS.
 - Annotated the document set.
