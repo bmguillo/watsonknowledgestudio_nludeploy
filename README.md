@@ -62,7 +62,7 @@ Machine Learning Model:
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/22_ruleeditorsizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/23_dictionarysizing.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/dictionaryannotator.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/dictionaryannotatorconfirm.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/dictionaryannotatorconfirmation.png)
 
 ## Perform Human Annotation 
 
