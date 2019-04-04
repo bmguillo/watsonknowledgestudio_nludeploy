@@ -111,7 +111,7 @@ Human annotators submit annotated documents for review
 ## Deploy to NLU after provisioning of NLU instance
 
 - Identify & analyze semantic features of text input, raw HTML or public URL including custom entities and relations unique to your domain
--Provide text, raw HTML, or a public URL it will give you results for the features you request. The service cleans HTML content before analysis by default, so the results can ignore most advertisements and other unwanted content.
+- Provide text, raw HTML, or a public URL it will give you results for the features you request. The service cleans HTML content before analysis by default, so the results can ignore most advertisements and other unwanted content.
 - [Working with deployed models](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-customizing#customizing) 
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/50_nluprovisionresize.png)
